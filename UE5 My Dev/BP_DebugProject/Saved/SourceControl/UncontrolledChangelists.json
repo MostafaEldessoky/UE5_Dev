@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/BP_DebugProject/Content/Maps/DebugLevel.umap",
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/BP_DebugProject/Content/Assets/Matrial/M_Drone.uasset",
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/BP_DebugProject/Content/Assets/Matrial/T_Drone_BC.uasset",
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/BP_DebugProject/Content/Assets/Matrial/T_Drone_EM.uasset",
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/BP_DebugProject/Content/Assets/Matrial/T_Drone_NRM.uasset",
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/BP_DebugProject/Content/Assets/Matrial/T_Drone_ORM.uasset",
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/BP_DebugProject/Content/BluePrints/BP_Drown.uasset",
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/BP_DebugProject/Content/BluePrints/BP_DebugDrown.uasset",
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/BP_DebugProject/Content/Assets/SM_Drone.uasset"
+			]
+		}
+	]
+}

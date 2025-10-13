@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Dev/Game Dev/UE5 Courses Resources/CollisionTests/Content/Blueprints/Ball/MovementMethods/BP_Ball_AddActorWorldOffset_Tick.uasset",
+				"D:/Dev/Game Dev/UE5 Courses Resources/CollisionTests/Content/Maps/EmptyTestRoom.umap",
+				"D:/Dev/Game Dev/UE5 Courses Resources/CollisionTests/Content/Blueprints/Ball/MovementMethods/BP_Ball_ProjectileMovement.uasset",
+				"D:/Dev/Game Dev/UE5 Courses Resources/CollisionTests/Content/Blueprints/QueryActors/BP_LineTraceActor.uasset",
+				"D:/Dev/Game Dev/UE5 Courses Resources/CollisionTests/Content/Maps/_GENERATED/moust/Cone_4F5C0014.uasset",
+				"D:/Dev/Game Dev/UE5 Courses Resources/CollisionTests/Content/Global/Meshes/Wall/SM_Wall.uasset",
+				"D:/Dev/Game Dev/UE5 Courses Resources/CollisionTests/Content/Blueprints/Ball/MovementMethods/BP_Ball_AddActorWorldOffset_BeginPlay.uasset",
+				"D:/Dev/Game Dev/UE5 Courses Resources/CollisionTests/Content/Blueprints/Ball/MovementMethods/BP_Ball_AddActorWorldOffset_Tick_Hit.uasset",
+				"D:/Dev/Game Dev/UE5 Courses Resources/CollisionTests/Content/Blueprints/Ball/MovementMethods/BP_Ball_AddActorWorldOffset_Tick_Overlap.uasset",
+				"D:/Dev/Game Dev/Unreal BluePrints My Dev/CollisionTests/Content/Maps/EmptyTestRoom.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Dev/Game Dev/UE5 My Dev/Slash/Content/Maps/DebugMap.umap",
+				"D:/Dev/Game Dev/UE5 My Dev/Slash/Content/BluePrints/BP_Item.uasset",
+				"D:/Dev/Game Dev/UE5 My Dev/Slash/Content/Assets/Arrow_32EB87F5.uasset",
+				"D:/Dev/Game Dev/UE5 My Dev/Slash/Content/BluePrints/BP_bird.uasset",
+				"D:/Dev/Game Dev/UE5 My Dev/Slash/Content/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong_Extents.uasset",
+				"D:/Dev/Game Dev/UE5 My Dev/Slash/Content/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong_ShadowCyl.uasset",
+				"D:/Dev/Game Dev/UE5 My Dev/Slash/Content/BluePrints/BP_DebugMode.uasset",
+				"D:/Dev/Game Dev/UE5 My Dev/Slash/Content/BluePrints/BP_Moah.uasset",
+				"D:/Dev/Game Dev/UE5 My Dev/Slash/Content/BluePrints/ABP_Moah.uasset",
+				"D:/Dev/Game Dev/Unreal C++ My Dev/Slash/Content/Maps/DebugMap.umap"
+			]
+		}
+	]
+}
