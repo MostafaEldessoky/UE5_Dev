@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/BluePrints/BP_Kex.uasset",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/Maps/JetpackLevel.umap",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/BluePrints/BP_KexController.uasset",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/BluePrints/BP_GameMode.uasset",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/BluePrints/IA_Look.uasset",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/BluePrints/IA_Move.uasset",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/BluePrints/IMC_KexMovement.uasset",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/BluePrints/IA_Jump.uasset",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/BluePrints/BS_KexIdaWalkRun.uasset",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/BluePrints/ABP_Kex.uasset",
+				"D:/Dev/UE5 Dev/UE5 My Dev/Jetpack/Content/Assets/Kix/Animations/A_Kix_JumpStart.uasset"
+			]
+		}
+	]
+}

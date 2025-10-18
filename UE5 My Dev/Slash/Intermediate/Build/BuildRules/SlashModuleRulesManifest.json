@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Dev\\Game Dev\\UE5 My Dev\\Slash\\Source\\Slash\\Slash.Build.cs",
-		"D:\\Dev\\Game Dev\\UE5 My Dev\\Slash\\Source\\Slash.Target.cs",
-		"D:\\Dev\\Game Dev\\UE5 My Dev\\Slash\\Source\\SlashEditor.Target.cs"
+		"D:\\Dev\\UE5 Dev\\UE5 My Dev\\Slash\\Source\\Slash\\Slash.Build.cs",
+		"D:\\Dev\\UE5 Dev\\UE5 My Dev\\Slash\\Source\\Slash.Target.cs",
+		"D:\\Dev\\UE5 Dev\\UE5 My Dev\\Slash\\Source\\SlashEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
